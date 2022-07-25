@@ -15,6 +15,8 @@ concept:
 1. Orbital Mechanics for Engineering Students by Howard Curtis
 2. Introduction to Space Dynamics by William Tyrrel Thomson
 3. Introduction to Space Flight by Francis J. Hale
+
 The images(except the screenshots from Spyder) in the report have been
 taken from the first book, Orbital Mechanics for Engineering Students by
 Howard Curtis
+
